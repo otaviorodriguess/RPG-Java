@@ -11,6 +11,6 @@ public class Pocao {
 
     public void usar(Heroi heroi) {
         System.out.println("Herói usou uma poção e recuperou " + cura + " de vida!");
-        // Aqui você pode implementar lógica para aumentar a vida do herói
+        // Pode implementar para aumentar a vida 
     }
 }
